@@ -1,4 +1,4 @@
-# plugin_test
+# Search plugin
 # Гуревич Даниил М3216
 
 ## Short-cut
