@@ -16,7 +16,7 @@ Date:   Wed Jun 19 17:40:58 2024 +0300
 
     feat: add plugin
 
-    ---
+---
 Plugin based on the [IntelliJ Platform Plugin Template][template].
 
 [template]: https://github.com/JetBrains/intellij-platform-plugin-template
